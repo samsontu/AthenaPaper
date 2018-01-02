@@ -1,0 +1,49 @@
+OVERALL GOAL
+- To describe the ATHENA research program and findings
+
+
+OVERVIEW OF ATHENA RESEARCH PROGRAM: ITS GOALS AND SCOPE, HISTORY 
+
+LISTING OF ATHENA-RELATED PROJECTS
+- PA, SF, NC study
+- Vision 1
+- Opioid, initial & recent 
+- Performance measure
+- Heart Failure
+- Astronaut: integration with CPRS
+- AutoPM
+- MedSafe
+
+OVERVIEW OF SYSTEM ARCHITECTURE & RELATIONSHIP TO EON
+
+THEMATIC AREAS AND LESSONS LEARNED
+
+- Knowledge representation
+
+- Knowledge acquisition and encoding
+
+- Testing
+
+- Integration with host system
+
+- User interface
+
+- Performance issues
+
+- Post-implementation surveillance
+
+- Impact on provider adherence
+
+- Impact on patient outcomes
+
+- Implementation of performance measure
+
+- Generalization to multiple guidelines
+
+- Multi-morbidity and co-morbidity issues
+
+- Adaptations to Dashboard
+
+
+
+
